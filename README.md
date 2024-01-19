@@ -10,6 +10,7 @@ Download or git clone this repository inside ComfyUI/custom_nodes/ directory. Th
 ## How to use it?
 In ComfyUI, you can find this node under `image/upscaling` category.
 The model requires an estimate of the compression level, which is a number between 0 and 100 (the same you need to provide when compressing a JPEG image). You can either set `auto_detect` to `enabled` and use built-in estimator, or set it to `disabled` and provide the value yourself in `compression_level`.
+
 ⚠️ If you leave `auto_detect` as `enabled`, the value of `compression_level` will be ignored.
 
 ## Credits
