@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-fbcnn"
+description = "A node for JPEG de-artifacting using [a/FBCNN](https://github.com/jiaxi-jiang/FBCNN)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Miosp/ComfyUI-FBCNN"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-FBCNN"
+Icon = ""
