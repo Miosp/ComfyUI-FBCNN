@@ -5,7 +5,7 @@
 This is a JPEG artifact/compression removal tool, which can work automatically or with the help of a user.
 
 ## Installation
-Download or git clone this repository inside ComfyUI/custom_nodes/ directory. The only required dependency is Pytorch, numpy, and requests, which should be already installed if you have ComfyUI.
+Download or git clone this repository inside ComfyUI/custom_nodes/ directory. The only required dependencies are Pytorch, numpy, and requests, which should be already installed if you have ComfyUI.
 
 ## How to use it?
 In ComfyUI, you can find this node under `image/upscaling` category.
